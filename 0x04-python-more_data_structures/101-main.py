@@ -11,4 +11,3 @@ matrix = [
 new_matrix = square_matrix_map(matrix)
 print(new_matrix)
 print(matrix)
-
