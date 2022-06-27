@@ -5,3 +5,4 @@
 #0x04-python-more_data_structures
 #0x05-python-exceptions
 #0x06-Python-Classes
+#0x08-python-more_classes
